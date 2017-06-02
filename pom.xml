@@ -52,7 +52,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>pro.zackpollard.telegrambot.inlinespoilerbot.InlineSpoilerBot</mainClass>
+                            <mainClass>net.darseraphim.telegram.seraphbot.InlineSpoilerBot</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>

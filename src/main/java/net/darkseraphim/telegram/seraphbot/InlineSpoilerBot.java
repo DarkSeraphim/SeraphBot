@@ -1,4 +1,4 @@
-package pro.zackpollard.telegrambot.inlinespoilerbot;
+package net.darkseraphim.telegram.seraphbot;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;

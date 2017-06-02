@@ -1,4 +1,4 @@
-package pro.zackpollard.telegrambot.inlinespoilerbot;
+package net.darkseraphim.telegram.seraphbot;
 
 import com.google.common.cache.Cache;
 import com.google.common.cache.CacheBuilder;
